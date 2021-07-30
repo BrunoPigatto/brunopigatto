@@ -14,13 +14,17 @@
 <div style="display:flex;align-items:center;justify-content: space-between;"><br>
   <img align="center" alt="Html5" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center" title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="jQuery" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg">
   <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
   <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-plain-wordmark.svg">
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain-wordmark.svg">
+  <img align="center" title="Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" title="Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain-wordmark.svg">
+  <img align="center" title="Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
+  
 </div>
   
   ##
