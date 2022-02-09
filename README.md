@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Bruno. Seja bem vindo ao meu GitHub!
 
-- 🔭 Trabalho com desenvolvimento fullstack Web e Mobile
-- 🌱 Estudando Análise e desenvolvimento de sistemas na Fatec - Americana
+- 🔭 Trabalho com desenvolvimento fullstack Web
+- 🌱 Formado no curso superior de Análise e Desenvolvimento de Sistemas
 - 📫 Meu e-mail de contato: bruunohenrique@hotmail.com
 
 <br>
