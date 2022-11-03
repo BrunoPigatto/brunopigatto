@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Bruno. Seja bem vindo ao meu GitHub!
 
-- 🔭 Trabalho com desenvolvimento fullstack Web
+- 🔭 Trabalho com desenvolvimento front-end
 - 🌱 Formado no curso superior de Análise e Desenvolvimento de Sistemas
 - 📫 Meu e-mail de contato: bruunohenrique@hotmail.com
 
