@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Bruno. Seja bem vindo ao meu GitHub!
 
 - 🔭 Trabalho com desenvolvimento front-end
-- 🌱 Formado no curso superior de Análise e Desenvolvimento de Sistemas
+- 🌱 Formado no curso superior de Análise e Desenvolvimento de Sistemas, Pós-Graduação Lato Sensu em Desenvolvimento Front-end e Pós-Graduação Lato Sensu em Experiência do Usuário UX.
 - 📫 Meu e-mail de contato: bruunohenrique@hotmail.com
 
 <br>
