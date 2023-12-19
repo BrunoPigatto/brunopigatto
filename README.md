@@ -4,6 +4,9 @@
 - 🌱 Formado no curso superior de Análise e Desenvolvimento de Sistemas, Pós-Graduação Lato Sensu em Desenvolvimento Front-end e Pós-Graduação Lato Sensu em Experiência do Usuário UX.
 - 📫 Meu e-mail de contato: bruunohenrique@hotmail.com
 
+** AVISO IMPORTANTE **
+Deletei todos os repositórios antigos e estou reformulando meu portfólio com novos projetos, em breve estarão aqui.
+
 <br>
   
 <div>
